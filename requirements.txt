@@ -1,7 +1,0 @@
-pandas
-geopandas
-matplotlib
-seborn
-scikit-learn
-streamlit
-shapely
